@@ -301,7 +301,6 @@ This project uses a modular interface-based architecture. To add new components:
 
 ## License
 
-[Specify your license here]
 
 ## Acknowledgments
 
@@ -317,4 +316,5 @@ This project uses a modular interface-based architecture. To add new components:
 - **Perturbation Budget**: The epsilon parameter controls the maximum allowed change. Higher values provide stronger protection but may be more noticeable.
 - **Robustness**: The optimizers include robustness augmentation to ensure protection survives JPEG compression, cropping, and other common image transformations.
 - **Ethical Use**: This tool is designed to protect people and creators from unauthorized generation and training on their photos. Use responsibly and in accordance with applicable laws.
+
 
