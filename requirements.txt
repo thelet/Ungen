@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+opencv-python
+pillow
+insightface>=0.7.3
+onnxruntime-gpu
+diffusers>=0.20.0
+transformers
+accelerate
+scipy
